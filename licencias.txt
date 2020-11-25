@@ -1,0 +1,13 @@
+Monero
+MIT
+GNU
+Charles Leifer
+Creative Commons
+GPL
+University of California
+Nathan Rajlich
+BSD-2
+AS IS
+XORP License
+SIL
+Apache License
